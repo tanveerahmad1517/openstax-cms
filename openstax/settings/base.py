@@ -195,7 +195,7 @@ INSTALLED_APPS = [
     'wagtail.contrib.redirects',
     'wagtail.contrib.forms',
     'wagtail.sites',
-    #'wagtail.contrib.wagtailapi',
+    'wagtail.contrib.routable_page',
     'wagtail.api.v2',
     'wagtail.contrib.settings',
     'wagtail.contrib.modeladmin',
